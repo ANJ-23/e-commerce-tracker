@@ -17,9 +17,9 @@ Within the command line, type "npm i" to install the app's dependencies. "npm ru
 
 ## Usage
 
-Open the files in a command line, then type either "node server.js" or "npx nodemon server.js". In an API fetch app like Insomnia, the user may input "<http://localhost:3001/api/(table_name)>" in the URL header, then GET (obtain), POST (create), PUT (update), or DELETE (remove) elements from the "products", "category", or "tags" data tables.
+Open the files in a command line, then type either "node server.js" or "npx nodemon server.js". In an API fetch app like Insomnia, the user may input `http://localhost:3001/api/(table_name)` in the URL header, then GET (obtain), POST (create), PUT (update), or DELETE (remove) elements from the "products", "category", or "tags" data tables.
 
-Demonstration video: <>
+Demonstration video: <https://drive.google.com/file/d/1E3MiBabLrDw_ZXY3obXL1toU-PxzYbF3/view?usp=share_link>
 
 ![E Commerce API Example](assets/screenshot.jpg)
 
