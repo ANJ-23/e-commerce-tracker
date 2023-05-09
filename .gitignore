@@ -1,0 +1,7 @@
+node_modules
+.env
+.DS_Store
+README copy.md
+assets/13-orm-homework-demo-01.gif
+assets/13-orm-homework-demo-02.gif
+assets/13-orm-homework-demo-03.gif
